@@ -1,0 +1,19 @@
+[
+  {
+      "id": 12,
+      "nome": "Volkswagen Beetle",
+      "ano": 1969
+  },
+  {
+      "id": 5,
+      "nome": "Chevrolet Onix",
+      "ano": 2017
+  },
+  {
+      "id": 10,
+      "nome": "Chevrolet Cruze",
+      "ano": 2020
+  }
+
+]
+

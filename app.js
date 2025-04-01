@@ -4,9 +4,11 @@ let app = express();
 const port = 3000;
 const index = require('./routes/indexRoutes.js'); 
 const pessoa = require('./routes/pessoaRoutes.js');
+const carros = require('./routes/carrosRoutes.js');
 
 app.use('/', index);
 app.use('/pessoa', pessoa);
+app.use('/carros', carros);
 
 // const pessoa = require('./pessoa.json');
 
